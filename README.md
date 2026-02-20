@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Trew, a freshman at Columbia studying Economics and Computer Science.  I spent the past year building an AI-powered learning app at a university research lab using C# and .NET, won a hackathon focused on AI applications, and taught web development to over 100 students. <br><br>Nice to meet you!
+Hi, I'm Trew, a freshman at Columbia studying Economics and Computer Science.  I spent the past year building an AI-powered learning app at a university research lab using C# and .NET, won a hackathon focused on AI applications, was an team leader for a successful VEX team, and taught web development to over 100 students. <br><br>Nice to meet you!
 
 
 ## 🌐 Socials:
